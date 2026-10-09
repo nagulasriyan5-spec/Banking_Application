@@ -1,0 +1,7 @@
+*.log
+*.err
+.env
+mysql-start.err
+mysql-start.out
+mysql_tmp/
+var/sessions/
